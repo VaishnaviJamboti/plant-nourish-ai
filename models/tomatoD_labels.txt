@@ -1,0 +1,4 @@
+0 Early Blight
+1 Late Blight
+2 Yellow Leaf Curl
+3 Septoria Spot

@@ -1,0 +1,4 @@
+0 Anthracnose
+1 Cercospora Spot
+2 Leaf Curl
+3 Bacterial Wilt

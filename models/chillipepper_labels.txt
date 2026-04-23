@@ -1,0 +1,5 @@
+0 Seedling
+1 Vegetative
+2 Flowering
+3 Fruiting
+4 Other

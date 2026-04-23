@@ -1,0 +1,20 @@
+0 Chilli_Anthracnose
+1 chilli_Cercospora Spot
+2 chilli_Leaf Curl
+3 chilli_Bacterial Wilt
+4 coriander_Powdery Mildew
+5 coriander_Stem Gall
+6 coriander_Bacterial Spot
+7 coriander_Fusarium Wilt
+8 cucumber_Powdery Mildew
+9 cucumber_Downy Mildew
+10 cucumber_Mosaic Virus
+11 cucumber_Angular Spot
+12 tomato_Early Blight
+13 tomato_Late Blight
+14 tomato_Yellow Leaf Curl
+15 tomato_Septoria Spot
+16 brinjal_Phomopsis Blight
+17 brinjal_Little Leaf
+18 brinjal_Cercospora Spot
+19 brinjal_Mosaic Virus

@@ -1,0 +1,4 @@
+0 Phomopsis Blight
+1 Little Leaf
+2 Cercospora Spot
+3 Mosaic Virus

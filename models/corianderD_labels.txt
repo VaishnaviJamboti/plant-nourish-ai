@@ -1,0 +1,4 @@
+0 Powdery Mildew
+1 Stem Gall
+2 Bacterial Spot
+3 Fusarium Wilt

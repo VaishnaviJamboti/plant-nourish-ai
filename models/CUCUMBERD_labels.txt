@@ -1,0 +1,4 @@
+0 Powdery Mildew
+1 Downy Mildew
+2 Mosaic Virus
+3 Angular Spot
